@@ -1,5 +1,5 @@
 {
-  "name": "table2excel",
+  "name": "table2excel_dahua",
   "version": "1.0.4",
   "description": "convert and download html tables to a xlsx-file that can be opened in Microsoft Excel",
   "keywords": [
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rusty1s/table2excel.git"
+    "url": "git@github.com:dahua997/table2excel_dahua.git"
   },
   "license": "MIT",
   "licenses": [
